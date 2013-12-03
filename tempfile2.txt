@@ -1,5 +1,0 @@
-/ASD/AcademicDev/QualityAssurance/StudentEvaluations_PGT/PTES_Analysis_2013_CIDA.xlsx
-/ASD/AcademicDev/QualityAssurance/StudentEvaluations_PGT/PTES_Analysis_2013_ILHP.xlsx
-/ASD/AcademicDev/QualityAssurance/StudentEvaluations_PGT/PTES_Analysis_2013_MVetMed.xlsx
-/ASD/AcademicDev/QualityAssurance/StudentEvaluations_PGT/PTES_Analysis_2013_Vet_Ed.xlsx
-/ASD/AcademicDev/QualityAssurance/StudentEvaluations_PGT/PTES_Analysis_2013_Vet_Epi.xlsx
